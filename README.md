@@ -3,10 +3,16 @@ program enkripsi sederhana dari metode otp dan menggunakan library python stegan
  
 # tampilan dari program
 
+1. program pada jupyter notebook
+
 <img width="463" alt="Screenshot 2023-12-06 153402" src="https://github.com/pyatamaa/otp_stegano_cipher/assets/92738041/719aa73b-94f3-43fd-b27c-3095700c5fe4">
 
 <img width="438" alt="Screenshot 2023-12-06 153502" src="https://github.com/pyatamaa/otp_stegano_cipher/assets/92738041/409ffee1-6484-49e9-9c01-d747f59688e6">
 
-<img width="380" alt="Screenshot 2023-12-06 154128" src="https://github.com/pyatamaa/otp_stegano_cipher/assets/92738041/6da3dde8-67e3-487a-9a00-867b942c9230">
+2. program pada CLI python versi enkripsi simbol(kode bisa diakses didalam folder, nama filenya *stegano_otp.py*)
 
-<img width="366" alt="Screenshot 2023-12-06 154258" src="https://github.com/pyatamaa/otp_stegano_cipher/assets/92738041/da93fee0-6f73-466c-b612-3ebe56853057">
+<img width="201" alt="Screenshot 2023-12-06 222837" src="https://github.com/pyatamaa/otp_stegano_cipher/assets/92738041/80560ee5-35f1-46ae-a3a2-d72f37c7b9ed">
+
+3. program pada CLI python versi enkripsi alphabet(kode bisa diakses didalam folder, nama filenya *stegano_xor.py*)
+
+<img width="222" alt="Screenshot 2023-12-06 223351" src="https://github.com/pyatamaa/otp_stegano_cipher/assets/92738041/78de42a5-bdce-4d32-8455-21e66cee007b">
