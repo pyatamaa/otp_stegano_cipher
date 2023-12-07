@@ -1,5 +1,9 @@
 # otp_stegano_cipher
 program enkripsi sederhana dari metode otp dan menggunakan library python stegano
+
+alur kodenya yaitu pertama mengenkripsi teks dan key menggunakan metode OTP(dengan syarat teks dan key sama panjang),
+
+kemudian teks yang sudah dienkripsi akan disisipkan kedalam foto menggunakan metode LSB dengan library python yaitu Stegano
  
 # tampilan dari program
 
